@@ -1,9 +1,12 @@
 # 💎 [Group 19] 이슈 트래커 clone project
 
-## Week 1 마일스톤
+## [WEB 배포 주소]
 
-- [iOS](https://github.com/boostcamp-2020/IssueTracker-19/projects/2)
-- [Web](https://github.com/boostcamp-2020/IssueTracker-19/projects/1)
+- http://issuetracker.ga/
+
+### API 문서
+
+- [API 문서](https://github.com/boostcamp-2020/IssueTracker-19/wiki/%5BAPI-%EB%AC%B8%EC%84%9C%5D)
 
 ## Git 사용규칙
 
@@ -35,14 +38,24 @@
 
 - [DB Visualization](https://github.com/boostcamp-2020/IssueTracker-19/wiki/DB)
 
-### API 문서
-
-- [API 문서](https://github.com/boostcamp-2020/IssueTracker-19/wiki/%5BAPI-%EB%AC%B8%EC%84%9C%5D)
-
 ## iOS
 
-## 데모
+### 앱 실행화면
+<p align=“center”>
+  <kbd><img src="https://user-images.githubusercontent.com/31726630/99057284-ed5a0800-25de-11eb-9320-8316d8247aa3.gif" width="250"></kbd>
+  <kbd><img src="https://user-images.githubusercontent.com/31726630/99057798-9e60a280-25df-11eb-9ceb-764e2ebdb4ac.gif" width="250"></kbd>
+  <kbd><img src="https://user-images.githubusercontent.com/31726630/99058034-f4354a80-25df-11eb-9c20-f59404d64514.gif" width="250"></kbd>
+</p>
+<p align=“center”>
+  <kbd><img src="https://user-images.githubusercontent.com/31726630/99058137-1e870800-25e0-11eb-953d-e545da0808dd.gif" width="250"></kbd>
+  <kbd><img src="https://user-images.githubusercontent.com/31726630/99058211-3a8aa980-25e0-11eb-8133-efe3459c5f09.gif" width="250"></kbd>
+</p>
+<p align=“center”>
+  <kbd><img src="https://user-images.githubusercontent.com/31726630/99058274-51310080-25e0-11eb-97a9-ab8dff80ffe9.gif" width="250"></kbd>
+  <kbd><img src="https://user-images.githubusercontent.com/31726630/99058352-71f95600-25e0-11eb-8503-390d0ee205a3.gif" width="250"></kbd>
+ <kbd><img src="https://user-images.githubusercontent.com/31726630/99058930-33b06680-25e1-11eb-9ec4-cc9c11bc6876.gif" width="250"></kbd>
+</p>
 
-### [week 1] 데모영상
 
-![1주차데모영상](https://user-images.githubusercontent.com/21030956/97560389-f022fd80-1a21-11eb-8e3a-32fe241695e5.gif)
+### 최종 배포 링크
+https://kr.object.ncloudstorage.com/issuetracker-19/default.html
